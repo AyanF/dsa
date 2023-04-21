@@ -1,7 +1,7 @@
 # Welcome 
 
 
-## Implement the following Data Structures 
+## Implement the following Algorithms
 
 1. Linear Search
 2. Binary Search
